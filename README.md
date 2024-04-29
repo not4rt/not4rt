@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hello, I'm Artur.</h1>
+
+<div align="center">
+I am an Application Security Engineer and Developer, driven by a curiosity for new technologies. Currently, I'm dedicated to learning more about Rust and C/C++. I also enjoy reverse engineering web and mobile applications.
+</div>
 
 <!--
 **not4rt/not4rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
